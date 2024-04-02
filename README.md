@@ -1,9 +1,8 @@
 ### Hi there 👋
 <div align="center">
-    <p>
-        <iframe src="https://giphy.com/embed/Rkis28kMJd1aE" width="480" height="317" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    
 <p><a href="https://giphy.com/gifs/angry-broken-computers-Rkis28kMJd1aE">via GIPHY</a></p>
-    </p>
+
 </div>
 
 <!--
