@@ -5,9 +5,9 @@ Im a creative technologist and coder, passionate about blending art, technology,
 ## What I do
 🎨 **Creative Applications:** I like to build  educational apps that engage and teach users.
 
-🖼️ **Interactive Exhibitions:** Curating digital exhibitions that forge new ways to communicate with vistors
+🖼️ **Interactive Exhibitions:** Curating digital exhibitions that forge new ways to communicate with users
 
-🌌 **Experimental Projects:** Outside of github I like to work on experimental projects, as a DJ and arts producer, encorporating digital applications into those projects
+🌌 **Experimental Projects:** Outside of github I like to work on experimental projects, as a DJ and arts producer, I encorporate digital applications into my projects
 
 ## Long term
 
