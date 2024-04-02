@@ -1,20 +1,16 @@
 ### Hi there 👋
 <div align="center">
-    
-<p><a href="https://giphy.com/gifs/angry-broken-computers-Rkis28kMJd1aE">via GIPHY</a></p>
-
+    <p>
+        <img src="[URL_OF_YOUR_GIF.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dtOGd3cjR6MnJ3dGNpbzhzZjFsMWFuejM3cHkwOTFuM2psZ3U1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rkis28kMJd1aE/giphy.gif)" alt="Shows a person losing it at the computer as they struggle to get it to work" />
+    </p>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows An astronaut losing it at the computer as it refuses to work." src="https://giphy.com/gifs/angry-broken-computers-Rkis28kMJd1aE">
-</picture>
+
 
 <!--
 **pastorZakaia/pastorZakaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Shows An astronaut losing it at the computer as it refuses to work ] <iframe src="https://giphy.com/embed/Rkis28kMJd1aE" width="480" height="317" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<p><a href="https://giphy.com/gifs/angry-broken-computers-Rkis28kMJd1aE">via GIPHY</a></p>
+![Shows a person losing it at the computer as they struggle to get it to work ] http://www.gifbay.com/gif/school_computers_in_a_nutshell-76646/ 
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dtOGd3cjR6MnJ3dGNpbzhzZjFsMWFuejM3cHkwOTFuM2psZ3U1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rkis28kMJd1aE/giphy.gif
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
