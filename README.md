@@ -26,7 +26,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/zakiya-whyles-3591811b
 
 <div align="center">
     <p>
-        <img src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dtOGd3cjR6MnJ3dGNpbzhzZjFsMWFuejM3cHkwOTFuM2psZ3U1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rkis28kMJd1aE/giphy.gif"  alt="Shows a person losing it at the computer as they struggle to get it to work" />
+        <img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2VvbmJyOHoza2g2eWp2amtmaTZvenZ2Z21kd2J5Y2F3b2hzaXViYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UnbxrvGdp0mnC/giphy.gif"  alt="I love my computer" />
     </p>
 </div>
 
