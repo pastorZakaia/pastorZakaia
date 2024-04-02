@@ -2,13 +2,14 @@
 
 Im a creative technologist and coder, passionate about blending art, technology, and education. My journey involves crafting interactive experiences, exploring philosophical concepts, and shaping digital identities. 🌟
 
-## What I do:
-
+## What I do
 🎨 **Creative Applications:** I like to build  educational apps that engage and teach users.
-🖼️ **Interactive Exhibitions:** Curating digital exhibitions that forge new ways to communicate with vistors
-🌌 **Experimental Projects:** Outside of github I like to work on experimental projects, as a DJ and arts producer, encorporating digital applications into those projects
 
-## Long term:
+🖼️ **Interactive Exhibitions** Curating digital exhibitions that forge new ways to communicate with vistors
+
+🌌 **Experimental Projects** Outside of github I like to work on experimental projects, as a DJ and arts producer, encorporating digital applications into those projects
+
+## Long term
 
 **Tech Consultancy:** I aspire to dive into tech consultancy, helping businesses navigate the digital landscape and optimize their processes.
 **Digital Infrastructure and policy:** With intellecutal roots in international politcs and development, I also aspire to work on building applications for the purpose of global economic and social development
@@ -20,7 +21,7 @@ My developing tech stack is a blend of creativity and functionality:
 Frontend: JS/HTML/CSS, React, Bootstrap
 Backend: Python, Django
 
-## Lets Connect! 
+## Lets Connect! :
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/zakiya-whyles-3591811b2/). 
 <div align="center">
