@@ -24,7 +24,13 @@ Backend: Python, Django
 ## Lets Connect! 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/zakiya-whyles-3591811b2/).
 
-<div align="center">
+
+
+
+
+
+
+<div align="Left">
     <p>
         <img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2VvbmJyOHoza2g2eWp2amtmaTZvenZ2Z21kd2J5Y2F3b2hzaXViYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UnbxrvGdp0mnC/giphy.gif"  alt="I love my computer" />
     </p>
