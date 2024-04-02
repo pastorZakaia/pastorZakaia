@@ -5,9 +5,9 @@ Im a creative technologist and coder, passionate about blending art, technology,
 ## What I do
 🎨 **Creative Applications:** I like to build  educational apps that engage and teach users.
 
-🖼️ **Interactive Exhibitions** Curating digital exhibitions that forge new ways to communicate with vistors
+🖼️ **Interactive Exhibitions:** Curating digital exhibitions that forge new ways to communicate with vistors
 
-🌌 **Experimental Projects** Outside of github I like to work on experimental projects, as a DJ and arts producer, encorporating digital applications into those projects
+🌌 **Experimental Projects:** Outside of github I like to work on experimental projects, as a DJ and arts producer, encorporating digital applications into those projects
 
 ## Long term
 
@@ -21,9 +21,9 @@ My developing tech stack is a blend of creativity and functionality:
 Frontend: JS/HTML/CSS, React, Bootstrap
 Backend: Python, Django
 
-## Lets Connect! :
+## Lets Connect! 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/zakiya-whyles-3591811b2/).
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/zakiya-whyles-3591811b2/). 
 <div align="center">
     <p>
         <img src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dtOGd3cjR6MnJ3dGNpbzhzZjFsMWFuejM3cHkwOTFuM2psZ3U1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rkis28kMJd1aE/giphy.gif"  alt="Shows a person losing it at the computer as they struggle to get it to work" />
