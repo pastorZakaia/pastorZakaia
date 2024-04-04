@@ -1,11 +1,11 @@
-### Hi I am Zakiya 👋
+### Hi, I am Zakiya 👋
 
 I'm a creative technologist and coder, passionate about blending art, technology, and education. My journey involves crafting interactive experiences, exploring philosophical concepts, and shaping digital identities. 🌟
 
 ## What I do
 🎨 **Creative Applications:** I like to build  educational apps that engage and teach users.
 
-🖼️ **Interactive Exhibitions:** building and curating digital exhibitions that forge new ways to communicate with users
+🖼️ **Interactive Exhibitions:** Building and curating digital exhibitions that forge new ways to communicate with users
 
 🌌 **Experimental Projects:** Outside of github I like to work on experimental projects, as a DJ and arts producer, I encorporate digital applications into my projects
 
