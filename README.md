@@ -12,6 +12,7 @@ I'm a creative technologist and coder, passionate about blending art, technology
 ## Long term
 
 **Tech Consultancy:** I aspire to dive into tech consultancy, helping businesses navigate the digital landscape and optimize their processes.
+
 **Digital Infrastructure and policy:** With intellecutal roots in international politcs and development, I also aspire to work on building applications for the purpose of global economic and social development
 
 ## My Coding Journey and Tech Stack
